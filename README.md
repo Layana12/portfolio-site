@@ -1,5 +1,5 @@
 # portfolio-site
-# Math Gestures with AI Assistance
+# Solving Math Problems using gesture
 
 This project is a gesture-based application that uses hand gestures to solve mathematical problems with the help of AI. The system captures hand gestures via a webcam and interacts with the user in real-time, allowing them to draw on a virtual canvas and process math problems.
 
