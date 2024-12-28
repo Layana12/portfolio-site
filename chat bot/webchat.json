@@ -1,0 +1,17 @@
+{
+  "botId": "a980b88f-da82-488b-ae97-f6deade5b3ac",
+  "configuration": {
+    "website": {},
+    "email": {},
+    "phone": {},
+    "termsOfService": {},
+    "privacyPolicy": {},
+    "color": "#3B82F6",
+    "variant": "solid",
+    "themeMode": "light",
+    "fontFamily": "inter",
+    "radius": 1,
+    "showPoweredBy": true
+  },
+  "clientId": "4fe90f6a-7fae-48d8-91e5-4a360bb34cf5"
+}

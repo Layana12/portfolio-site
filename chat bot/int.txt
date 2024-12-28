@@ -1,0 +1,17 @@
+import { z, IntegrationDefinition } 
+import llm from './bp_modules/llm'
+
+export default new IntegrationDefinition({
+  // ... other configuration properties
+  name: "my-llm",
+  entities: {
+    modelRef: {
+      schema: z.object({
+        id: z.string(),
+      }),
+    },
+  },
+})
+.extend(llm, ({ modelRef }) => ({
+  modelRef,
+}));
